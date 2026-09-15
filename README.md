@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shrudhir Praveen
+#  Hi, I'm Shrudhir Praveen
 
 ### Software Developer | Full-Stack Developer | Flutter & Frontend Developer
 
@@ -8,23 +8,23 @@ I enjoy turning ideas into practical applications and continuously expanding my 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Building web applications with **React, Next.js, Vue, and Nuxt**
-* 📱 Developing mobile applications with **Flutter & Dart**
-* 🔧 Working with **Node.js, Express, REST APIs, and server-side development**
-* 🗄️ Working with **PostgreSQL, SQLite, and Prisma**
-* 🔐 Implementing authentication using **Clerk and JWT**
-* 🧠 Exploring **Machine Learning and Computer Vision**
-* 🎨 Interested in building clean, responsive, and reusable UI components
-* 🌱 Continuously learning and improving my software engineering skills
-* 🎯 Currently focused on becoming a stronger **full-stack developer**
+*  Building web applications with **React, Next.js, Vue, and Nuxt**
+*  Developing mobile applications with **Flutter & Dart**
+*  Working with **Node.js, Express, REST APIs, and server-side development**
+*  Working with **PostgreSQL, SQLite, and Prisma**
+*  Implementing authentication using **Clerk and JWT**
+*  Exploring **Machine Learning and Computer Vision**
+*  Interested in building clean, responsive, and reusable UI components
+*  Continuously learning and improving my software engineering skills
+*  Currently focused on becoming a stronger **full-stack developer**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -34,7 +34,7 @@ I enjoy turning ideas into practical applications and continuously expanding my 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 🌐 Frontend
+###  Frontend
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -46,14 +46,14 @@ I enjoy turning ideas into practical applications and continuously expanding my 
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </p>
 
-### 📱 Mobile
+###  Mobile
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Riverpod-00AEEF?style=for-the-badge"/>
 </p>
 
-### ⚙️ Backend
+###  Backend
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -61,7 +61,7 @@ I enjoy turning ideas into practical applications and continuously expanding my 
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases & ORM
+###  Databases & ORM
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -69,7 +69,7 @@ I enjoy turning ideas into practical applications and continuously expanding my 
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
 </p>
 
-### 🔐 Authentication & Tools
+###  Authentication & Tools
 
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
@@ -81,9 +81,9 @@ I enjoy turning ideas into practical applications and continuously expanding my 
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-### 💰 [Budget Tracker](https://github.com/shrudh14007/budget-tracker)
+###  [Budget Tracker](https://github.com/shrudh14007/budget-tracker)
 
 Full-stack personal finance application built with **Next.js, TypeScript, Prisma, SQLite, Clerk, Zod, React Query, and Recharts**.
 
@@ -99,7 +99,7 @@ Full-stack personal finance application built with **Next.js, TypeScript, Prisma
 
 ---
 
-### 👥 [Employee Management Flutter](https://github.com/shrudh14007/Employee_management_flutter)
+###  [Employee Management Flutter](https://github.com/shrudh14007/Employee_management_flutter)
 
 Flutter-based application exploring **CRUD operations, SQLite persistence, REST APIs, PostgreSQL, and JWT authentication**.
 
@@ -115,7 +115,7 @@ Flutter-based application exploring **CRUD operations, SQLite persistence, REST 
 
 ---
 
-### 🌐 [Developer Portfolio](https://github.com/shrudh14007/shrudhir-portfolio)
+###  [Developer Portfolio](https://github.com/shrudh14007/shrudhir-portfolio)
 
 My personal developer portfolio built using **Nuxt, Vue, TypeScript, and SCSS**.
 
@@ -130,7 +130,7 @@ My personal developer portfolio built using **Nuxt, Vue, TypeScript, and SCSS**.
 
 ---
 
-### 💰 [Money Builder](https://github.com/shrudh14007/moneybuilderapp)
+###  [Money Builder](https://github.com/shrudh14007/moneybuilderapp)
 
 React-based personal finance dashboard for tracking income, expenses, savings, and financial goals.
 
@@ -138,7 +138,7 @@ React-based personal finance dashboard for tracking income, expenses, savings, a
 
 ---
 
-### 📚 [BookSky](https://github.com/shrudh14007/booksky)
+###  [BookSky](https://github.com/shrudh14007/booksky)
 
 Lightweight book management application built with **HTML, CSS, and Vanilla JavaScript**.
 
@@ -152,7 +152,7 @@ Lightweight book management application built with **HTML, CSS, and Vanilla Java
 
 ---
 
-### 🛰️ [Satellite Image Classification](https://github.com/shrudh14007/satelite-image-classification)
+###  [Satellite Image Classification](https://github.com/shrudh14007/satelite-image-classification)
 
 Machine learning project exploring **satellite image processing and classification** using Python and Jupyter Notebook.
 
@@ -166,7 +166,7 @@ Machine learning project exploring **satellite image processing and classificati
 
 ---
 
-## 📊 What I'm Working With
+##  What I'm Working With
 
 ```text
 Frontend       → React • Next.js • Vue • Nuxt • TypeScript
@@ -180,7 +180,7 @@ Tools          → Git • GitHub • Vite • VS Code
 
 ---
 
-## 🧠 Software Engineering Interests
+##  Software Engineering Interests
 
 I'm particularly interested in:
 
@@ -197,7 +197,7 @@ I'm particularly interested in:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 I'm continuously improving my knowledge in:
 
@@ -212,7 +212,7 @@ I'm continuously improving my knowledge in:
 
 ---
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrudh14007&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -224,7 +224,7 @@ I'm continuously improving my knowledge in:
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p>
   <a href="https://github.com/shrudh14007">
@@ -234,6 +234,6 @@ I'm continuously improving my knowledge in:
 
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+###  "Build. Learn. Improve. Repeat."
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting my profile! 
